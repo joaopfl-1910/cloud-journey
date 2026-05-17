@@ -8,3 +8,4 @@ Day 3: cd, mkdir, touch
 Day 4: cat, echo, nano
 Day 5: chmod, permissions
 Day 6: review + GitHub created
+Day 7: ps, top, kill - process
